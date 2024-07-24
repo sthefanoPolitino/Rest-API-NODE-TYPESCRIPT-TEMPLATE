@@ -7,6 +7,6 @@
 //     console.log(error);
 //     throw new Error("Error a la hora de conectar con la base de datos") //forma de lanzar errores
 // }
-// }    
+// }
 // module.exports={dbConnection}
-// ejemplo de conexion con mongo db atlas
+//example connect with mongodb and mongo-db atlas
